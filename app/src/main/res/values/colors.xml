@@ -8,6 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="bgColor">#fbfbf2</color>
-    <color name="btnBgColor">#1e1b18</color>
+    <color name="btnBtnColor">#1e1b18</color>
     <color name="secondaryTxtColor">#50514f</color>
 </resources>
